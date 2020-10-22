@@ -1,4 +1,5 @@
 # pogoda
-
+## How to use
+Open index.html 
 ## Built with
-JavaScript
+JavaScript HTML CSS Bootstrap
