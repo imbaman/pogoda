@@ -1,3 +1,4 @@
 # pogoda
 
-Start index.html in liveserver
+## Built with
+JavaScript
